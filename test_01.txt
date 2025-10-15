@@ -1,7 +1,7 @@
 Hallo Welt!
-Hallo Hallo
+Hallo Welt
 
 test
 Fix
 Vierter-branch +++
-Change auf github
+Change auf github: Cool!
